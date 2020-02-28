@@ -10,7 +10,6 @@ tasks for the first assinment are;
 
 1) Read data from the dataset and separate it into 4 columns with each row as a review submitted.
 2) Preprocess the reviews content by;
-
   a) Removing unwanted whitespaces
   b) Normalizing case
   c) Removinig stopwords
